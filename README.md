@@ -17,7 +17,7 @@
 </p>
 
 ### 📜 Certifications & Study
-- 🎯 AWS Solutions Architect Associate (준비 중)
+- 🎯 AWS Solutions Architect Associate
 - 🎯 정보처리기사 (준비 중)
 
 ---
