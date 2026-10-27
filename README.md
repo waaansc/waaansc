@@ -18,7 +18,9 @@
 
 ### 📜 Certifications & Study
 - 🎯 AWS Solutions Architect Associate
-- 🎯 정보처리기사 (준비 중)
+- 🎯 정보처리기사 (결과 발표 대기 중)
+- 🎯 리눅스 마스터 2급 (준비 중)
+- 🎯 TOEIC Speaking Advanced Low(160)
 
 ---
 
